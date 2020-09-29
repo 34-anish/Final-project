@@ -1,0 +1,10 @@
+debug/audiencepoll.o
+debug/endscreen.o
+debug/main.o
+debug/mainwindow.o
+debug/startmenu.o
+debug/qrc_resource.o
+debug/moc_audiencepoll.o
+debug/moc_endscreen.o
+debug/moc_mainwindow.o
+debug/moc_startmenu.o

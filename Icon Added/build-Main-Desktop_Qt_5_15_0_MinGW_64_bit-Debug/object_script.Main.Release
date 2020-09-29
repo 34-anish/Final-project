@@ -1,0 +1,10 @@
+release/audiencepoll.o
+release/endscreen.o
+release/main.o
+release/mainwindow.o
+release/startmenu.o
+release/qrc_resource.o
+release/moc_audiencepoll.o
+release/moc_endscreen.o
+release/moc_mainwindow.o
+release/moc_startmenu.o
